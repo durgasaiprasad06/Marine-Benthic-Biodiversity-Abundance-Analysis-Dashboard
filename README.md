@@ -64,8 +64,10 @@ Dataset Link:-   https://catalog.data.gov/dataset/marine-benthic-abundance-data
 
 ## 📸 Dashboard Preview
 
-<img width="1919" height="1079" alt="Screenshot 2025-12-20 224221" src="https://github.com/user-attachments/assets/2f93ecb4-4947-4cf0-84a1-9a803c6ac5ff" />
-
+<img width="1919" height="1079" alt="Screenshot 2025-12-20 224139" src="https://github.com/user-attachments/assets/d284802e-eb1a-4a99-8550-2fdf1c7e998c" />
+<img width="1919" height="1079" alt="Screenshot 2025-12-20 224157" src="https://github.com/user-attachments/assets/619a72eb-c169-48dd-a926-bcac81768c75" />
+<img width="1919" height="1079" alt="Screenshot 2025-12-20 224207" src="https://github.com/user-attachments/assets/581d397b-cc76-4452-8368-8188c5477af1" />
+<img width="1919" height="1079" alt="Screenshot 2025-12-20 224221" src="https://github.com/user-attachments/assets/0331d784-758b-40f7-978e-52163816fc28" />
 
 ---
 
